@@ -1,0 +1,2 @@
+def huda:
+    print("Huda")
